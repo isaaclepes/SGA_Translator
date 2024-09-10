@@ -1,7 +1,7 @@
 # SGA_Translator
 Simple Python application that shows input text in Standard Galactic used in Spelunkery Minecraft mod.
 
-![image](https://github.com/user-attachments/assets/913275b3-f2a8-4cfe-8be3-3b04c81ab3cc)
+![image](https://github.com/user-attachments/assets/614476e4-fe41-4962-a3e5-b2ced5a876f4)
 
 
 Unzip and install the SGA Smooth font
