@@ -30,7 +30,7 @@ input_label.pack(pady=10)
 input_text = tk.StringVar()
 input_text.trace_add("write", update_preview)
 input_entry = tk.Entry(root, textvariable=input_text, font=standard_font, width=50,
-                       bg=input_background_color, fg=input_foreground_color, insertbackground=foreground_color)
+                       bg=input_background_color, fg=input_foreground_color, insertbackground=foreground_color, justify="center")
 input_entry.pack(pady=10)
 
 # SGA View
