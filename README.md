@@ -1,5 +1,5 @@
 # SGA_Translator
-Simple Python application that shows input text in Standard Galactic used in Spelunkery Minecraft mod.
+Simple Python application that shows input text in Standard Galactic used in Spelunkery Table of the Minecraft mod Alex's Caves.
 
 ![image](https://github.com/user-attachments/assets/614476e4-fe41-4962-a3e5-b2ced5a876f4)
 
